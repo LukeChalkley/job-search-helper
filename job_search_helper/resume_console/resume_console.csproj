@@ -7,4 +7,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\resume_model\resume_model.csproj" />
+    </ItemGroup>
+
 </Project>
